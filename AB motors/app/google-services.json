@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678319617532",
+    "project_id": "abmotors-cd9db",
+    "storage_bucket": "abmotors-cd9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678319617532:android:8c1be51da34653b829ae79",
+        "android_client_info": {
+          "package_name": "com.example.abmotorss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLZVu_VqdeGvfc-5L8QfDxUi1ka96Wsq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
